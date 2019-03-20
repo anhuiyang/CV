@@ -1,10 +1,6 @@
 ## Hui-An Yang
 
-Junior full-stack software developer recently switch to the tech industry from supply chain management
-
-
-
-Experienced working with cross-functional teams, diverse of people and managing the biggest account in a wholesale company.  As a fresh graduate of Makers Academy, I am seeking a role in an agile team to build my skill, bring ideas to life and add value to the company.
+Junior full-stack software developer
 
 ## Project
 | Project                                                                  | Summary                                                                                                                                                                                                       | Technologies                                                       | Testing                                                 |
@@ -15,13 +11,13 @@ Experienced working with cross-functional teams, diverse of people and managing 
 
 ## Experience
 
-**Makers Academy** (Nov 2018 – Present)    
+**Makers Academy** (Nov 2018 – Present)      
 A trainee software developer, London, U.K.
+ - Agile methodologies, pair programming and XP values
+ - Object-oriented design, Test driven development and behaviour driven development
  - Languages: Ruby, JavaScript, SQL, HTML
  - Frameworks: Rails, ReactJS, Sinatra
  - Testing: RSpec, Capybara, Jasmine, Mocha
- - Agile methodologies, pair programming and XP values
- - Object-oriented design, Test driven development and behaviour driven development
  - GitHub, Travis CI, Heroku, ASK SDK v2, AWS Lambda, VUI, Datamapper, Active Record
 
 **Kacoo Fashion Ltd.** (Sep 2017 – Oct 2018)    
@@ -50,19 +46,10 @@ Bookkeeper, Taichung, Taiwan
 
 ## Education
 
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
 #### National Taichung University of Science and Technology (Sep 2009 - Jun 2013)
 
 - Bachelor, Accounting Information Systems
 
-#### Any other qualifications
-
+## Languages
+ - English (fluent)
+ - Mandarin (native)
