@@ -50,8 +50,8 @@ Bookkeeper, Taichung, Taiwan
 
 ## Education
 
-**National Taichung University of Science and Technology** (Sep 2009 - Jun 2013)
-Bachelor, Accounting Information Systems, Taichung, Taiwan
+**National Taichung University of Science and Technology** (Sep 2009 - Jun 2013)  
+Bachelor degree in Accounting Information Systems, Taichung, Taiwan
 
 ## Languages
  - English (fluent)
