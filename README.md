@@ -1,6 +1,10 @@
 ## Hui-An Yang
 
-Junior full-stack software developer
+Junior full-stack software developer seeking a role to contribute in an agile environment and progress in skill 
+
+Recently switched to the technology industry from supply chain management.  
+Having grown interested in tech out of its continuous problem solving and infinite depth of learning.  
+Fresh graduate of Makers Academy, where developed technical skills, a process-led approach and a growth mindset
 
 ## Project
 | Project                                                                  | Summary                                                                                                                                                                                                       | Technologies                                                       | Testing                                                 |
@@ -11,35 +15,35 @@ Junior full-stack software developer
 
 ## Experience
 
-**Makers Academy** (Nov 2018 – Present)      
+**Makers Academy** (Nov 2018 – Present)     
 A trainee software developer, London, U.K.
- - Agile methodologies, pair programming and XP values
- - Object-oriented design, Test driven development and behaviour driven development
+ - Agile Software Development, Pair programming, Model–View–Controller, Object-Oriented Programming
+ - Test Driven Development, Behaviour Driven Development
  - Languages: Ruby, JavaScript, SQL, HTML
- - Frameworks: Rails, ReactJS, Sinatra
- - Testing: RSpec, Capybara, Jasmine, Mocha
- - GitHub, Travis CI, Heroku, ASK SDK v2, AWS Lambda, VUI, Datamapper, Active Record
-
+ - Frameworks: Rails, React, Sinatra
+ - Testing Tools: RSpec, Capybara, Jasmine
+ - Others: Github, Travis CI, Heroku
+ 
 **Kacoo Fashion Ltd.** (Sep 2017 – Oct 2018)    
 Import Merchandiser, Manchester, U.K.
  - Managed key accounts critical path to forecast and troubleshoot issues
- - Communicated with sales, design and technical teams to smooth production
+ - Communicated with sales, design and textile technical teams to smooth production
  - Handled customer request and work with factories to fulfil target price, quality and lead-time
- - Liaised with the customer to update order status and follow-up fit, lab-dip and shipment sample approval
+ - Liaised with the customer to update order status and customer complaints management
  - Monitored weekly shipment from factories and coordinated goods delivery plan to customers
  
 **Sports City International Inc.** (Dec 2014 – May 2017)   
 Purchasing Specialist, Taipei, Taiwan  
- - Handled raw material ordering and shipments globally for a $4M account
- - Secured over $300K in revenue by trouble-shooting raw material quality issues impacting delivery
- - Reduced inventory carrying cost by monitored obsolete material proactively
- - Improved machine utilization and efficiency by expediting raw material acquisition plan
+ - Handled globally raw material ordering and shipments arrangement
+ - Troubleshot raw material quality issues impacting delivery
+ - Reduced inventory carrying cost by proactively monitored obsolete material
+ - Improved machine utilization and efficiency by expediting raw material acquisition plans
  - Trained and mentored new recruit to work independently in three months
 
 **Crowe Horwath - ACCA Firm** (Sep 2013 – Aug 2014)   
 Bookkeeper, Taichung, Taiwan  
-- Managed bookkeeping for over 10 corporations in manufacturing, healthcare, and the art industry
-- Achieved 100% on-time rate and 99% accuracy on VAT and payroll taxes filing
+- Managed bookkeeping for diversity of corporations in manufacturing, healthcare, and galery
+- Achieved high on-time rate and accuracy on VAT and payroll taxes filing
 - Generated financial statements and filed corporate income tax
 - Kept track of assets and calculated depreciation and amortization
 - Performed tax compliance audit on accounts receivable, accounts payable and financial statements
