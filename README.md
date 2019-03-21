@@ -42,7 +42,7 @@ Purchasing Specialist, Taipei, Taiwan
 
 **Crowe Horwath - ACCA Firm** (Sep 2013 – Aug 2014)   
 Bookkeeper, Taichung, Taiwan  
-- Managed bookkeeping for diversity of corporations in manufacturing, healthcare, and galery
+- Managed bookkeeping for diverse corporations in manufacturing, healthcare, and galery
 - Achieved high on-time rate and accuracy on VAT and payroll taxes filing
 - Generated financial statements and filed corporate income tax
 - Kept track of assets and calculated depreciation and amortization
