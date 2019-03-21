@@ -1,13 +1,13 @@
 ## Hui-An Yang
-(LinkedIn Profile)[https://www.linkedin.com/in/hui-an-yang/]
+[LinkedIn Profile](https://www.linkedin.com/in/hui-an-yang/)   
 Junior full-stack software developer seeking a role to challenge and progress in skill
 
 Recently switched to the technology industry from supply chain management.  
 Having grown interested in tech out of its continuous problem solving and infinite depth of learning.  
-Fresh graduate of Makers Academy, developed technical skills, a process-led approach and a growth mindset
+Fresh graduate of Makers Academy, developed technical skills, a process-led approach and a growth mindset.
 
 ## Project
-| Project                                                                  | Summary                                                                                                                                                                                                       | Technologies                                                       | Testing                                                 |
+| Title                                                                  | Summary                                                                                                                                                                                                       | Technologies                                                       | Testing                                                 |
 |--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------|
 | [Facebook Clone](https://github.com/anhuiyang/acebook-team-rocket)       | A two weeks of **Agile Development** group project on learning Ruby on Rails from scratch. (We also spent two days stretching to a [React front-end](https://github.com/anhuiyang/Acebook-team-rocket-frontend))  | Ruby, Rails, React, Heroku, PostgreSQL, HTML, CSS                  | Rspec-Rails, Capybara, Simplecov, Travis CI    |
 | [Event Planner](https://github.com/anhuiyang/event_planner_app)          | A **TDD** vanilla Javascript single page app                                                                                                                                                                      | Javascript                                                         | Jasmine                                         |
