@@ -1,5 +1,5 @@
 ## Hui-An Yang
-
+(LinkedIn Profile)[https://www.linkedin.com/in/hui-an-yang/]
 Junior full-stack software developer seeking a role to challenge and progress in skill
 
 Recently switched to the technology industry from supply chain management.  
