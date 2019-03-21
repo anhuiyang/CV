@@ -16,7 +16,7 @@ Fresh graduate of Makers Academy, where developed technical skills, a process-le
 ## Experience
 
 **Makers Academy** (Nov 2018 – Present)     
-A trainee software developer, London, U.K.
+Trainee software developer, London, U.K.
  - Agile Software Development, Pair programming, Model–View–Controller, Object-Oriented Programming
  - Test Driven Development, Behaviour Driven Development
  - Languages: Ruby, JavaScript, SQL, HTML
