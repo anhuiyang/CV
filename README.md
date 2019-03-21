@@ -1,6 +1,6 @@
 ## Hui-An Yang
 
-Junior full-stack software developer seeking a role to contribute in an agile environment and progress in skill 
+Junior full-stack software developer seeking a role to challenge and progress my skill in an agile environment
 
 Recently switched to the technology industry from supply chain management.  
 Having grown interested in tech out of its continuous problem solving and infinite depth of learning.  
