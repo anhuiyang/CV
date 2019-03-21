@@ -4,7 +4,7 @@ Junior full-stack software developer seeking a role to challenge and progress in
 
 Recently switched to the technology industry from supply chain management.  
 Having grown interested in tech out of its continuous problem solving and infinite depth of learning.  
-Fresh graduate of Makers Academy, where developed technical skills, a process-led approach and a growth mindset
+Fresh graduate of Makers Academy, developed technical skills, a process-led approach and a growth mindset
 
 ## Project
 | Project                                                                  | Summary                                                                                                                                                                                                       | Technologies                                                       | Testing                                                 |
