@@ -1,5 +1,10 @@
-## Hui-An Yang
-[LinkedIn Profile](https://www.linkedin.com/in/hui-an-yang/)   
+<h1 align='center'>Hui-An Yang</h1>
+<p align='right'>
+<a href="https://www.linkedin.com/in/hui-an-yang/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="An's LinkedIn" hspace="50" height="42" width="42"></a>
+<a href="hecatie36@gmail.com">
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-512.png" alt="An's Gmail" hspace="50" height="42" width="42"></a>
+ </p>
 Junior full-stack software developer seeking a role to challenge and progress in skill
 
 Recently switched to the technology industry from supply chain management.  
