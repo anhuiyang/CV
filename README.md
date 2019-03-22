@@ -1,6 +1,4 @@
-<h1 align='center'>Hui-An Yang</h1>
-<p align='center'><a href='https://www.linkedin.com/in/hui-an-yang/'>LinkedIn profile</a> | <a href='hecatie36@gmail.com'>hecatie36@gmail.com</a> | London, U.K.</p>
-
+# Hui-An Yang | [LinkedIn](https://www.linkedin.com/in/hui-an-yang/) | [Mail](hecatie36@gmail.com) | London, U.K.
 
 Junior full-stack software developer seeking a role to challenge and progress in skill
 
