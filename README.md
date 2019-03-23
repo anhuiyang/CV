@@ -1,28 +1,22 @@
-# Hui-An Yang | [LinkedIn](https://www.linkedin.com/in/hui-an-yang/) | [Mail](hecatie36@gmail.com) | London, U.K.
+# Hui-An Yang 
+London, U.K. | [hecatie36@gmail.com](hecatie36@gmail.com) | [GitHub](https://github.com/anhuiyang). 
 
-Junior full-stack software developer seeking a role to challenge and progress in skill
+A junior full-stack software developer with supply chain management background.  Passionate about creative problem-solving and continuous learning in tech.  Fluent in English and Mandarin.  Looking forward to joining an agile team to contribute and build skills further.
 
-Recently switched to the technology industry from supply chain management.  
-Having grown interested in tech out of its continuous problem solving and infinite depth of learning.  
-Fresh graduate of Makers Academy, developed technical skills, a process-led approach and a growth mindset.
+## Projects
 
-## Project
-| Title                                                                  | Summary                                                                                                                                                                                                       | Technologies                                                       | Testing                                                 |
-|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------|
-| [Facebook Clone](https://github.com/anhuiyang/acebook-team-rocket)       | A two weeks of **Agile Development** group project on learning Ruby on Rails from scratch. (We also spent two days stretching to a [React front-end](https://github.com/anhuiyang/Acebook-team-rocket-frontend))  | Ruby, Rails, React, Heroku, PostgreSQL, HTML, CSS                  | Rspec-Rails, Capybara, Simplecov, Travis CI    |
-| [Event Planner](https://github.com/anhuiyang/event_planner_app)          | A **TDD** vanilla Javascript single page app                                                                                                                                                                      | Javascript                                                         | Jasmine                                         |
-| [Amazon Alexa Quiz App](https://github.com/anhuiyang/alexa_node_js_quiz) | A two weeks of final project of an Alexa custom skill interactive quiz game                                                                                                                                   | Node.js, ASK SDK v2, VUI, Alexa developer console, AWS Lambda | Mocha, Alexa Skill Test Framework, VirtualAlexa |
+| Name                                                                          | Summary                                                                         | Technologies                                                                 |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| [Facebook Clone](https://github.com/anhuiyang/acebook-team-rocket) (Web App)  | A two-week of Agile Software Development project on learning Rails from scratch | Ruby, Rails, Heroku, PostgreSQL, HTML, CSS, Rspec-Rails, Capybara, Travis CI |
+| [Alexa Quiz App](https://github.com/anhuiyang/alexa_node_js_quiz) (Cloud App) | A two-week project creating an interactive game of Amazon Alexa Custom Skill    | Node.js, ASK SDK v2, AWS Lambda, Alexa Skill Test Framework, Virtual Alexa   |
 
 ## Experience
 
 **Makers Academy** (Nov 2018 – Present)     
 Trainee software developer, London, U.K.
- - Agile Software Development, Pair programming, Model–View–Controller, Object-Oriented Programming
- - Test Driven Development, Behaviour Driven Development
- - Languages: Ruby, JavaScript, SQL, HTML
- - Frameworks: Rails, React, Sinatra
- - Testing Tools: RSpec, Capybara, Jasmine
- - Others: Github, Travis CI, Heroku
+ - Technical Skills: Ruby, JavaScript, HTML/CSS, Ruby on Rails, Sinatra, ASK SDK v2, Active Record, PostgreSQL, RSpec,    Capybara, Jasmine, Mocha, Travis CI, Heroku, AWS Lambda
+ - Behavioural Skills: Agile Software Development, Pair programming, MVC, OOP, TDD, BDD 
+
  
 **Kacoo Fashion Ltd.** (Sep 2017 – Oct 2018)    
 Import Merchandiser, Manchester, U.K.
