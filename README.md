@@ -1,5 +1,5 @@
 # Hui-An Yang 
-London, U.K. | [hecatie36@gmail.com](hecatie36@gmail.com) | [GitHub](https://github.com/anhuiyang). 
+[hecatie36@gmail.com](hecatie36@gmail.com) | [GitHub](https://github.com/anhuiyang) | London, U.K. 
 
 A junior full-stack software developer with supply chain management background.  Passionate about creative problem-solving and continuous learning in tech.  Fluent in English and Mandarin.  Looking forward to joining an agile team to contribute and build skills further.
 
@@ -16,7 +16,6 @@ A junior full-stack software developer with supply chain management background. 
 Trainee software developer, London, U.K.
  - Technical Skills: Ruby, JavaScript, HTML/CSS, Ruby on Rails, Sinatra, ASK SDK v2, Active Record, PostgreSQL, RSpec,    Capybara, Jasmine, Mocha, Travis CI, Heroku, AWS Lambda
  - Behavioural Skills: Agile Software Development, Pair programming, MVC, OOP, TDD, BDD 
-
  
 **Kacoo Fashion Ltd.** (Sep 2017 – Oct 2018)    
 Import Merchandiser, Manchester, U.K.
@@ -46,7 +45,3 @@ Bookkeeper, Taichung, Taiwan
 
 **National Taichung University of Science and Technology** (Sep 2009 - Jun 2013)  
 Bachelor degree in Accounting Information Systems, Taichung, Taiwan
-
-## Languages
- - English (fluent)
- - Mandarin (native)
