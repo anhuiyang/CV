@@ -7,14 +7,14 @@ A junior full-stack software developer with supply chain management background. 
 
 | Name                                                                          | Summary                                                                         | Technologies                                                                 |
 |-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| [Facebook Clone](https://github.com/anhuiyang/acebook-team-rocket) (Web App)  | A two-week of Agile Software Development project on learning Rails from scratch | Ruby, Rails, Heroku, PostgreSQL, HTML, CSS, Rspec-Rails, Capybara, Travis CI |
+| [Facebook Clone](https://github.com/anhuiyang/acebook-team-rocket) (Web App)  | A two-week of **Agile Software Development** project on learning Rails from scratch | Ruby, Rails, Heroku, PostgreSQL, HTML, CSS, Rspec-Rails, Capybara, Travis CI |
 | [Alexa Quiz App](https://github.com/anhuiyang/alexa_node_js_quiz) (Cloud App) | A two-week project creating an interactive game of Amazon Alexa Custom Skill    | Node.js, ASK SDK v2, AWS Lambda, Alexa Skill Test Framework, Virtual Alexa   |
 
 ## Experience
 
 **Makers Academy** (Nov 2018 – Present)     
 Trainee software developer, London, U.K.
- - Technical Skills: Ruby, JavaScript, HTML/CSS, Ruby on Rails, Sinatra, ASK SDK v2, Active Record, PostgreSQL, RSpec,    Capybara, Jasmine, Mocha, Travis CI, Heroku, AWS Lambda
+ - Technical Skills: **Ruby, JavaScript, HTML/CSS, Ruby on Rails, Sinatra, ASK SDK v2, Active Record, PostgreSQL, RSpec,    Capybara, Jasmine, Mocha, Travis CI, Heroku, AWS Lambda**
  - Behavioural Skills: Agile Software Development, Pair programming, MVC, OOP, TDD, BDD 
  
 **Kacoo Fashion Ltd.** (Sep 2017 – Oct 2018)    
