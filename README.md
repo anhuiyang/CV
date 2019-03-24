@@ -33,7 +33,7 @@ Purchasing Specialist, Taipei, Taiwan
  - Improved machine utilization and efficiency by expediting raw material acquisition plans
  - Trained and mentored new recruit to work independently in three months
 
-**Crowe Horwath - ACCA Firm** (Sep 2013 – Aug 2014)   
+**Crowe Horwath - Accounting Firm** (Sep 2013 – Aug 2014)   
 Bookkeeper, Taichung, Taiwan  
 - Managed bookkeeping for diverse corporations in manufacturing, healthcare, and galery
 - Achieved high on-time rate and accuracy on VAT and payroll taxes filing
