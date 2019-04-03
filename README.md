@@ -7,8 +7,8 @@ A junior full-stack software developer with supply chain management and accounti
 
 | Name                                                                          | Summary                                                                         | Technologies                                                                 |
 |-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| [Facebook Clone](https://github.com/anhuiyang/acebook-team-rocket) (Web App)  | A two-week of **Agile Software Development** project on learning Rails from scratch | Ruby, Rails, Heroku, PostgreSQL, HTML, CSS, Rspec-Rails, Capybara, Travis CI |
-| [Alexa Quiz App](https://github.com/anhuiyang/alexa_node_js_quiz) (Cloud App) | A two-week project creating an interactive game of Amazon Alexa Custom Skill    | Node.js, ASK SDK v2, AWS Lambda, Alexa Skill Test Framework, Virtual Alexa   |
+| [Facebook Clone](https://github.com/anhuiyang/acebook-team-rocket) (Web App)  | An Agile Software Development project creating a Facebook clone with Ruby on Rails. Test-Driven with Rspec-Rails, Capybara and Selenium Webdriver and deployed on Heroku via Travis continuous integration.    | Ruby, Rails, Heroku, PostgreSQL, HTML, CSS, Rspec-Rails, Capybara, Travis CI |
+| [Alexa Quiz App](https://github.com/anhuiyang/alexa_node_js_quiz) (Cloud App) | AnAmazon Alexa custom skills creating an interactive quiz game.  Frontend developed on Amazon developer console with Voice User Interface. Backend developed on AWS Lambda service with Alexa Skills Software Development Kit v2 - Node.js.  Tested with Mocha Alexa Skill Test Framework and Virtual Alexa    | Node.js, ASK SDK v2, AWS Lambda, Alexa Skill Test Framework, Virtual Alexa   |
 
 ## Experience
 
