@@ -5,10 +5,11 @@ A junior full-stack software developer with supply chain management and accounti
 
 ## Projects
 
-| Name                                                                          | Summary                                                                                                                                                                                                                                                                                                    |
-|-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Facebook Clone](https://github.com/anhuiyang/acebook-team-rocket) (Web App)  | An **Agile Software Development** project creating a Facebook clone with **Rails**. **TDD** with **Rspec-Rails**, **Capybara** and **Selenium Webdriver** and deployed on **Heroku** via **Travis CI**.                                                                                                |
+| Name                                                                          | Summary                                                                                                                                                                                                                                                                                                                                    |
+|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Facebook Clone](https://github.com/anhuiyang/acebook-team-rocket) (Web App)  | An **Agile Software Development** project creating a Facebook clone with **Rails**. **TDD** with **Rspec-Rails**, **Capybara** and **Selenium Webdriver** and deployed on **Heroku** via **Travis CI**.                                                                                                                                    |
 | [Alexa Quiz App](https://github.com/anhuiyang/alexa_node_js_quiz) (Cloud App) | An **Amazon Alexa** custom skills creating an interactive quiz game.,Frontend developed on **Amazon developer console** with **Voice User Interface**. Backend developed on **AWS Lambda** service with **Alexa Skills Software Development Kit** v2 - **Node.js**.,Tested with **Mocha Alexa Skill Test Framework** and **Virtual Alexa** |
+| [Event Planner](https://github.com/anhuiyang/event_planner_app)               | A single page Vanilla **JavaScript** event planning app **TDD** with a [self-made testing framework](https://github.com/anhuiyang/casi_test_framework_js) **local storage** and deployed on surge.                                                                                                                                         |
 
 ## Experience
 
@@ -18,7 +19,7 @@ Trainee software developer, London, U.K.
  - Frameworks/Libraries: Ruby on Rails, Sinatra, ASK SDK v2
  - Testing: RSpec, Capybara, Jasmine, Mocha
  - Others: PostgreSQL, Travis CI, Heroku, AWS Lambda
- - Behavioural Skills: Agile Software Development, Pair programming, XP value, SOLID principles, Object-Oriented Programming, Test-Driven Development, Behaviour-Driven Development 
+ - Behavioural Skills: Agile Software Development, Pair programming, XP value, SOLID principles, Object-Oriented Programming, Test-Driven Development, Behaviour-Driven Development
 
 
 **Kacoo Fashion Ltd.** (Sep 2017 – Oct 2018)    
