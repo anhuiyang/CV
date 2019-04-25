@@ -1,26 +1,26 @@
 ## Hui-An Yang
 [hecatie36@gmail.com](hecatie36@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hui-an-yang/) | [GitHub](https://github.com/anhuiyang) | London, U.K.
 
-A junior full-stack software developer with supply chain management and accounting background.  Passionate about creative problem-solving and continuous learning in tech.  Fluent in English and Mandarin.  Looking forward to joining an agile team to contribute and build skills further.
+A full-stack software developer with supply chain management background.  Passionate about creative problem-solving and continuous learning in tech. Open to pick-up any new languages or frameworks. Looking for a hands-on back-end role in an Agile team to contribute and build skills further. 
 
 ## Projects
 
-| Name                                                                          | Summary                                                                                                                                                                                                                                                                                                                                    |
-|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Alexa Quiz App](https://github.com/anhuiyang/alexa_node_js_quiz) (Cloud App) | An **Amazon Alexa** custom skills creating an interactive quiz game([demo video](https://www.youtube.com/watch?v=u7rnM6qNkW8&feature=youtu.be)). Frontend developed on **Amazon developer console** with **Voice User Interface**. Backend developed on **AWS Lambda** service with **Alexa Skills Software Development Kit** v2 - **Node.js**.,Tested with **Mocha Alexa Skill Test Framework** and **Virtual Alexa**  |
-| [Facebook Clone](https://github.com/anhuiyang/acebook-team-rocket) (Web App)  | An **Agile Software Development** project creating a Facebook clone with **Rails**. **TDD** with **Rspec-Rails**, **Capybara** and **Selenium Webdriver** and deployed on **Heroku** via **Travis CI**.                                                                                                                                    |
-| [Event Planner](https://github.com/anhuiyang/event_planner_app) (Web App)     | A single page Vanilla **JavaScript** event planning app **TDD** with a [self-made testing framework](https://github.com/anhuiyang/casi_test_framework_js) **local storage** and deployed on surge.                                                                                                                                         |
+| Name                                                                                                                               | Summary                                                                                                                                                                                                                                                                                                                                                                                                                |
+|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Alexa Quiz App](https://github.com/anhuiyang/alexa_node_js_quiz) (Cloud App)                                                      | An **Amazon Alexa** custom skills creating an interactive quiz game([demo video](https://www.youtube.com/watch?v=u7rnM6qNkW8&feature=youtu.be)). Frontend developed on **Amazon developer console** with **Voice User Interface**. Backend developed on **AWS Lambda** service with **Alexa Skills Software Development Kit** v2 - **Node.js**.,Tested with **Mocha Alexa Skill Test Framework** and **Virtual Alexa** |
+| [Facebook Clone](https://github.com/anhuiyang/acebook-team-rocket) (Web App)                                                       | An **Agile Software Development** project creating a Facebook clone with **Rails**. **TDD** with **Rspec-Rails**, **Capybara** and **Selenium Webdriver** and deployed on **Heroku** via **Travis CI**.                                                                                                                                                                                                                |
+| Unwrapped [front-end](https://github.com/HuxleyM/unwrapped_frontEnd_Athena) [back-end](https://github.com/anhuiyang/unwrapped_api) | A **React** UI with an **Express** api which is a TripAdvisor of plastic-free shopping. The shopper can locate the nearest shop and shops can sign up to be showcased. **Winning the AthenaLDN hackathon**.                                                                                                                                                                                                            |
+| [Clothing Retailer](https://github.com/anhuiyang/retailer)                                                                         | A **TDD** vanilla JavaScript front-end app of an interactive retail clothing page with **ES6** and **AJAX**. Showing available products, add products to carts, price before discount, apply vouchers and price after discount.                                                                                                                                                                                        |
 
 ## Experience
 
 **Makers Academy** (Nov 2018 – Present)     
 Trainee software developer, London, U.K.
  - Languages: Ruby, JavaScript, HTML/CSS, SQL
- - Frameworks/Libraries: Ruby on Rails, Sinatra, ASK SDK v2
- - Testing: RSpec, Capybara, Jasmine, Mocha
- - Others: PostgreSQL, Travis CI, Heroku, AWS Lambda
- - Behavioural Skills: Agile Software Development, Pair programming, XP value, SOLID principles, Object-Oriented Programming, Test-Driven Development, Behaviour-Driven Development
-
+ - Frameworks/Libraries: React, Node.js, Ruby on Rails, Sinatra, ASK SDK v2
+ - Testing: RSpec, Capybara, Jasmine, Mocha, Selenium Webdriver
+ - Others: Git, PostgreSQL, MongoDB, Travis CI, Heroku, AWS Lambda
+ - Behavioural Skills: Agile Software Development, Object-Oriented Programming, Test-Driven Development, Behaviour-Driven Development
 
 **Kacoo Fashion Ltd.** (Sep 2017 – Oct 2018)    
 Import Merchandiser, Manchester, U.K.
