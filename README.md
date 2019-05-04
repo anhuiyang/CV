@@ -15,11 +15,11 @@ A full-stack software developer with supply chain management background.  Passio
 
 **Makers Academy** (Nov 2018 – Present)     
 Trainee software developer, London, U.K.
- - Languages: Ruby, JavaScript, HTML/CSS, SQL
- - Frameworks/Libraries: React.js, Node.js, Express.js, Ruby on Rails, Sinatra, ASK SDK v2
- - Testing: RSpec, Capybara, Jasmine, Mocha, Selenium Webdriver
+ - Languages: JavaScript, Ruby, HTML/CSS, SQL
+ - Frameworks/Libraries: React.js, Node.js, Express.js, Ruby on Rails, ASK SDK v2
+ - Testing: Jest, Jasmine, Mocha, RSpec, Capybara, Selenium Webdriver
  - Others: Git, PostgreSQL, MongoDB, Travis CI, Heroku, AWS Lambda
- - Behavioural Skills: Agile Software Development, Object-Oriented Programming, Test-Driven Development, Behaviour-Driven Development
+ - Behavioural Skills: Agile Software Development, Object-Oriented Programming, Test-Driven Development, Behaviour-Driven Development, Model-View-Controller
 
 **Kacoo Fashion Ltd.** (Sep 2017 – Oct 2018)    
 Import Merchandiser, Manchester, U.K.
