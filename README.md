@@ -1,7 +1,7 @@
 ## Hui-An Yang
 [hecatie36@gmail.com](hecatie36@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hui-an-yang/) | [GitHub](https://github.com/anhuiyang) | London, U.K.
 
-A full-stack software developer with supply chain management background.  Passionate about creative problem-solving and continuous learning in tech. Open to pick-up any new languages or frameworks. Looking for a hands-on back-end role in an Agile team to contribute and build skills further. 
+A full-stack developer with a supply chain management background.  Experienced coding in Javascript and Ruby utilising different libraries and frameworks to create APIs and UIs. Valued code quality applying TDD and following SOLID principles while coding. Open-minded to pick up any new languages and frameworks. Currently looking for a hands-on back-end role to contribute and extend my skills.
 
 ## Projects
 
